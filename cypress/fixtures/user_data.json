@@ -1,0 +1,21 @@
+{
+    "validUser": {
+      "email": "pallavikapadnis@gmail.com",
+      "password": "Pal@80",
+      "firstName": "Pallavi",
+      "lastName": "Kapadnis"
+    },
+    "invalidUser": {
+      "email": "invalid_user@example.com",
+      "password": "wrongPassword"
+    },
+    "address": {
+      "address": "Pune Phase1",
+      "city": "Pune",
+      "country": "India",
+      "state": "Maharashtra",
+      "zipcode": "411057",
+      "phone": "9049207298"
+    }
+  }
+  
