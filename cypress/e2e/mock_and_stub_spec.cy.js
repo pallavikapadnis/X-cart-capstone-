@@ -1,7 +1,7 @@
 
 describe('X-Cart Stubbed Checkout Process', () => {
     it('should stub the checkout payment process', () => {
-        cy.login('pallavi@gmail.com', 'Pal@80');
+        cy.login('pallavikapadnis@gmail.com', 'Pal@80');
       cy.addProductToCart('toys');
         cy.addProductToCart('games');
         cy.contains('View cart').click();
